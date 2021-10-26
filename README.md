@@ -21,8 +21,14 @@ We used two databases that contain data about the virus, sorted by date and coun
 - characters restriction.
 - Removing irrelevant information.
 
+###### Basic information analysis:
+- removing unnecessary columns.
+- suitable date format.
+- characters restriction.
+- Removing irrelevant information.
+
 ##### We also included an [Hebrew report](https://github.com/DorinDomin/Workshop-in-Databases/blob/84dd8dbdffae96c447b39d7b7f1111db7042e13a/Software%20Document%20(general).pdf)
 
-##### Visualizations:
-![image](https://user-images.githubusercontent.com/58748407/138848340-a804ab26-f3c9-40bc-be85-1b55e7e285b2.png)
+##### Visualizations: China, on February 16th
 
+![image](https://user-images.githubusercontent.com/58748407/138851380-5952bf8d-23f0-4676-a642-2ce0ed3740dd.png)
