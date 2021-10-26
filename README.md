@@ -8,6 +8,14 @@ This app displays information about the corona virus in countries around the wor
 This app includes statistical data analysis, and provides information
 regarding the rate of virus progression relative to other countries.
 
+### **Environment and tools**
+* We build this app using PyCharm, while coding in Python. 
+* Tools we used:
+  * PyCharm
+  * Python
+  * MYSQL (saving our database)
+  * tkinter, pandas, matplotlib, numpy, pymysql (UI/UX, Calculations, Statistics, Sql Queries)
+
 #### Databases we used:
 We used two databases that contain data about the virus, sorted by date and country.
 - The first database contains for each date the morbidity data of about 200 countries.
@@ -16,16 +24,15 @@ We used two databases that contain data about the virus, sorted by date and coun
   -  https://en.unesco.org/covid19/educationresponse
 
 ###### Basic information analysis:
-- removing unnecessary columns.
-- suitable date format.
-- characters restriction.
-- Removing irrelevant information.
+- removing unnecessary columns
+- suitable date format
+- characters restriction
+- Removing irrelevant information
 
-###### Basic information analysis:
-- removing unnecessary columns.
-- suitable date format.
-- characters restriction.
-- Removing irrelevant information.
+###### Further information analysis:
+- statistical calculations
+- cross-reference information
+- logical consequence
 
 ##### We also included an [Hebrew report](https://github.com/DorinDomin/Workshop-in-Databases/blob/84dd8dbdffae96c447b39d7b7f1111db7042e13a/Software%20Document%20(general).pdf)
 
